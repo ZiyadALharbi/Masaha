@@ -33,6 +33,12 @@
 I have feelings for AI and hope we fall in love in future. As the leader of this talented team, I can proudly say that I’m grateful for working with each member. We managed to build everything only in one week.
 </p>
 
+<h3>Role</h3>
+<ul>
+	<li>Email: <code>leader</code></li>
+	<li>Email: <code>fullstack</code></li>
+</ul>
+
 <h3>Contact</h3>
 <ul>
 	<li>Email: <code>ziyad.swengineer@gmail.com</code></li>
