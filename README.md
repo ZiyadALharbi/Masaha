@@ -23,8 +23,8 @@
 </ul>
 
 <h2>Team Members</h2>
-<p>Ziyad Alharbi (Leader): 
-I’m Software engineering student at king fahad university, a full stack mobile developer under construction, for me having the ability to build apps from scratch feels like I’m superhero :)
+<h4>Ziyad Alharbi (Leader):</h4> 
+<p>I’m Software engineering student at king fahad university, a full stack mobile developer under construction, for me having the ability to build apps from scratch feels like I’m superhero :)
 I have feelings for AI and hope we fall in love in future. As the leader of this talented team, I can proudly say that I’m grateful for working with each member. We managed to build everything only in one week.
 </p>
 
