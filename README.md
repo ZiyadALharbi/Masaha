@@ -46,3 +46,21 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 	<li>GitHub: https://github.com/ZiyadALharbi</li>
 	<li>Twitter: https://twitter.com/Ziyad_1440</li>
 </ul>
+
+<h2>Team Members</h2>
+<h4>Lujain Salah:</h4> 
+<p>recent graduate Bachelor Computer Science from Umm-Al Qura University with good interpersonal communication and technical skills in addition to a confident approach and professional attitude. Interested in web development and mobile apps, i participated in several hakathons and won one of them second place. I trained for 6 months in startups to increase my experience and I had a good computer experience in the training period.
+</p>
+
+<h3>Role</h3>
+<ul>
+	<li> UI / UX</li>
+	<li> Fullstack development</li>
+</ul>
+
+<h3>Contact</h3>
+<ul>
+	<li>Email: </li>
+	<li>Linkedin: https://www.linkedin.com/in/lujain-bugis</li>
+	<li>GitHub: https://github.com/xilujain/xilujain</li>
+</ul>
