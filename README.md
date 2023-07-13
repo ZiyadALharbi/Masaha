@@ -30,7 +30,7 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 <h3>Contact</h3>
 <ul>
 	<li>Email: <code>ziyad.swengineer@gmail.com</code></li>
-	<li><a href="[https://www.linkedin.com/in/ziyad-alharbi-294059222/ ↗](https://www.linkedin.com/in/ziyad-alharbi-294059222/)">LinkedIn</a></li>
-	<li>GitHub: <a href="[https://github.com/ZiyadALharbi ↗](https://github.com/ZiyadALharbi)">[https://github.com/ZiyadALharbi ↗](https://github.com/ZiyadALharbi)</a></li>
-	<li>Twitter: <a href="[https://twitter.com/Ziyad_1440 ↗](https://twitter.com/Ziyad_1440)">[https://twitter.com/Ziyad_1440 ↗](https://twitter.com/Ziyad_1440)</a></li>
+	<li>Linkedin: https://www.linkedin.com/in/ziyad-alharbi-294059222/</li>
+	<li>GitHub: https://github.com/ZiyadALharbi</li>
+	<li>Twitter: https://twitter.com/Ziyad_1440</li>
 </ul>
