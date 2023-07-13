@@ -25,7 +25,7 @@
 <h2>Presentaion</h2>
 <p>https://www.canva.com/design/DAFmdj7q6T0/xqKluQ3Iq1SlDesHPHHAiQ/edit?utm_content=DAFmdj7q6T0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 </p>
-<p>Note: if the videos are not working then u can check the presentation folder to see them. </p>
+<p>if the videos are not working then u can check the presentation folder to see them. </p>
 
 <h2>Team Members</h2>
 <h4>Ziyad Alharbi (Leader):</h4> 
