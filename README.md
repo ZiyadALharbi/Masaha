@@ -14,3 +14,10 @@
 	<li>Bookmark workspaces for future booking</li>
 </ul>
 
+<h2>Tools Used</h2>
+<ul>
+	<li>Backend: <code>Dart</code>, <code>shelf</code>, and <code>Supabase</code> for database</li>
+	<li>Design: <code>Figma</code></li>
+	<li>Frontend: <code>Flutter</code></li>
+	<li>Management: <code>GitHub</code></li>
+</ul>
