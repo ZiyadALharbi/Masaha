@@ -35,8 +35,8 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 
 <h3>Role</h3>
 <ul>
-	<li> leader</li>
-	<li> fullstack</li>
+	<li> Leader</li>
+	<li> Fullstack development</li>
 </ul>
 
 <h3>Contact</h3>
