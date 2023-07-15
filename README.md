@@ -23,7 +23,7 @@
 </ul>
 
 <h2>Presentaion</h2>
-<a href="https://www.canva.com/design/DAFmdj7q6T0/xqKluQ3Iq1SlDesHPHHAiQ/edit?utm_content=DAFmdj7q6T0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Click here</a>
+<a href="https://www.canva.com/design/DAFmdj7q6T0/xqKluQ3Iq1SlDesHPHHAiQ/edit?utm_content=DAFmdj7q6T0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><p></p>Click here</p></a>
 
 <br><p>if the videos are not working then u can check the presentation folder to see them. </p>
 
@@ -111,3 +111,5 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 	<li>GitHub: https://github.com/ALWALEED-KHUSHAIM</li>
 	<li>Twitter: https://twitter.com/wf_prog</li>
 </ul>
+
+<p><h3>Note:</h3> the roles assignrd are the main roles, but all members have praticipated in both back-end & front-end</p>
