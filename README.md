@@ -28,7 +28,7 @@
 <br><p>if the videos are not working then u can check the presentation folder to see them. </p>
 
 <h2>Images</h2>
-<div class="row">
+<div class="column">
   <div class="row">
     <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/home_page.jpg" alt="HomePage" style="width:25%">
   </div>
