@@ -44,18 +44,18 @@
 
 
 <h2>Team Members</h2>
-<h4>Ziyad Alharbi (Leader):</h4> 
+<h3>Ziyad Alharbi (Leader):</h3> 
 <p>I’m Software engineering student at king fahad university, a full stack mobile developer under construction, for me having the ability to build apps from scratch feels like I’m superhero :)
 I have feelings for AI and hope we fall in love in future. As the leader of this talented team, I can proudly say that I’m grateful for working with each member. We managed to build everything only in one week.
 </p>
 
-<h3>Role</h3>
+<h4>Role</h4>
 <ul>
 	<li> Leader</li>
 	<li> Fullstack development</li>
 </ul>
 
-<h3>Contact</h3>
+<h4>Contact</h4>
 <ul>
 	<li>Email: <code>ziyad.swengineer@gmail.com</code></li>
 	<li>Linkedin: https://www.linkedin.com/in/ziyad-alharbi-294059222/</li>
@@ -64,33 +64,33 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 </ul>
 
 
-<h4>Lujain Salah:</h4> 
+<h3>Lujain Salah:</h3> 
 <p>recent graduate Bachelor Computer Science from Umm-Al Qura University with good interpersonal communication and technical skills in addition to a confident approach and professional attitude. Interested in web development and mobile apps, i participated in several hakathons and won one of them second place. I trained for 6 months in startups to increase my experience and I had a good computer experience in the training period.
 </p>
 
-<h3>Role</h3>
+<h4>Role</h4>
 <ul>
 	<li> UI / UX</li>
 	<li> Fullstack development</li>
 </ul>
 
-<h3>Contact</h3>
+<h4>Contact</h4>
 <ul>
 	<li>Email: <code>lujainboo@gmail.com</code></li>
 	<li>Linkedin: https://www.linkedin.com/in/lujain-bugis</li>
 	<li>GitHub: https://github.com/xilujain/xilujain</li>
 </ul>
 
-<h4>Omar Alshehri:</h4> 
+<h3>Omar Alshehri:</h3> 
 <p>Graduated from King Khalid University with a major in computer science. I am a Flutter app developer with a passion for learning new things and improving my skills. I had the pleasure of working with this wonderful team on our project, and I look forward to working with them again in the future.
 </p>
 
-<h3>Role</h3>
+<h4>Role</h4>
 <ul>
 	<li>Front-end</li>
 </ul>
 
-<h3>Contact</h3>
+<h4>Contact</h4>
 <ul>
 	<li>Email: <code>3omr.sa@gmail.com</code></li>
 	<li>Linkedin: https://www.linkedin.com/in/om7-sa/</li>
