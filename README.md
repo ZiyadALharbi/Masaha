@@ -96,3 +96,19 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 	<li>Linkedin: https://www.linkedin.com/in/om7-sa/</li>
 	<li>GitHub: https://github.com/om7-sa</li>
 </ul>
+
+<h3>Alwaleed Khushaim:</h3> 
+<p>I'm
+</p>
+
+<h4>Role</h4>
+<ul>
+	<li>Front-end</li>
+</ul>
+
+<h4>Contact</h4>
+<ul>
+	<li>Email: <code>3omr.sa@gmail.com</code></li>
+	<li>Linkedin: https://www.linkedin.com/in/om7-sa/</li>
+	<li>GitHub: https://github.com/om7-sa</li>
+</ul>
