@@ -45,7 +45,10 @@
 </div>
 
 <h3>owner</h3>
+<div class="column">
 <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Owner/owner.gif" alt="Owner" style="width:25%">
+</div>
+
 
 <h2>Team Members</h2>
 <h4>Ziyad Alharbi (Leader):</h4> 
