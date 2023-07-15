@@ -80,3 +80,19 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 	<li>Linkedin: https://www.linkedin.com/in/lujain-bugis</li>
 	<li>GitHub: https://github.com/xilujain/xilujain</li>
 </ul>
+
+<h4>Omar Alshehri:</h4> 
+<p>Graduated from King Khalid University with a major in computer science. I am a Flutter app developer with a passion for learning new things and improving my skills. I had the pleasure of working with this wonderful team on our project, and I look forward to working with them again in the future.
+</p>
+
+<h3>Role</h3>
+<ul>
+	<li>Front-end</li>
+</ul>
+
+<h3>Contact</h3>
+<ul>
+	<li>Email: <code>3omr.sa@gmail.com</code></li>
+	<li>Linkedin: https://www.linkedin.com/in/om7-sa/</li>
+	<li>GitHub: https://github.com/om7-sa</li>
+</ul>
