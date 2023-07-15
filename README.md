@@ -46,7 +46,7 @@
 
 <h3>owner</h3>
 <div class="column">
-<img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Owner/owner.gif" alt="Owner" style="width:25%">
+<img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Owner/owner.gif" alt="Owner" style="width:75%">
 </div>
 
 
