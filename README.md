@@ -48,7 +48,7 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 <h4>Role</h4>
 <ul>
 	<li> Leader</li>
-	<li> Fullstack development</li>
+	<li> Fullstack developer</li>
 </ul>
 
 <h4>Contact</h4>
@@ -67,7 +67,7 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 <h4>Role</h4>
 <ul>
 	<li> UI / UX</li>
-	<li> Fullstack development</li>
+	<li> Fullstack developer</li>
 </ul>
 
 <h4>Contact</h4>
@@ -83,7 +83,7 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 
 <h4>Role</h4>
 <ul>
-	<li>Front-end</li>
+	<li>Front-end developer</li>
 </ul>
 
 <h4>Contact</h4>
@@ -99,12 +99,12 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 
 <h4>Role</h4>
 <ul>
-	<li>Front-end</li>
+	<li>Front-end developer</li>
 </ul>
 
 <h4>Contact</h4>
 <ul>
-	<li>Email: <code></code></li>
+	<li>Email: <code>Mr.khushaim@gmail.com</code></li>
 	<li>Linkedin: https://www.linkedin.com/in/alwaleed-khushaim-210726244</li>
 	<li>GitHub: https://github.com/ALWALEED-KHUSHAIM</li>
 	<li>Twitter: https://twitter.com/wf_prog</li>
