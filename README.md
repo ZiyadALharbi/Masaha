@@ -29,20 +29,13 @@
 
 <h2>Images</h2>
 <h3>Customer</h3>
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/home_page.jpg" alt="HomePage" style="width:25%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/product_page.jpg" alt="ProductPage" style="width:25%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/reservation_page.jpg" alt="ReservationPage" style="width:25%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/bookmark_page.jpg" alt="BookmarkPage" style="width:25%">
-  </div>
-</div>
+
+![HomePage](https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/home_page.jpg | width=100) 
+![ProductPage](https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/product_page.jpg | width=100) 
+![ReservationPage](https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/reservation_page.jpg | width=100) 
+![BookmarkPage](https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/bookmark_page.jpg | width=100)
+
+
 
 <h3>owner</h3>
 <div class="column">
