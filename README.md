@@ -30,15 +30,6 @@
 <h2>Images</h2>
 <h3>Customer</h3>
 
-<style>
-  .row {
-    display: flex;
-  }
-  .column {
-    flex: 25%;
-    padding: 5px;
-  }
-</style>
 <div class="row">
   <div class="column">
     <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/home_page.jpg" alt="HomePage" style="width:25%">
@@ -46,12 +37,8 @@
   <div class="column">
     <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/product_page.jpg" alt="ProductPage" style="width:25%">
   </div>
-  <div class="column">
     <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/reservation_page.jpg" alt="ReservationPage" style="width:25%">
-  </div>
-  <div class="column">
     <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/bookmark_page.jpg" alt="BookmarkPage" style="width:25%">
-  </div>
 </div>
 
 
