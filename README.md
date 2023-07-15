@@ -27,6 +27,19 @@
 
 <br><p>if the videos are not working then u can check the presentation folder to see them. </p>
 
+<h2>Images</h2>
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/home_page.jpg" alt="HomePage" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
 <h2>Team Members</h2>
 <h4>Ziyad Alharbi (Leader):</h4> 
 <p>I’m Software engineering student at king fahad university, a full stack mobile developer under construction, for me having the ability to build apps from scratch feels like I’m superhero :)
