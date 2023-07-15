@@ -30,7 +30,7 @@
 <h2>Images</h2>
 <h3>Customer</h3>
 <div class="column">
-    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/Customer.gif" alt="Customer" style="width:75%">
+    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/Customer.gif" alt="Customer" style="width:100%">
 </div>
 
 <h3>owner</h3>
