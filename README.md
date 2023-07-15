@@ -30,7 +30,7 @@
 <h2>Images</h2>
 <div class="row">
   <div class="column">
-    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/home_page.jpg" alt="HomePage" >
+    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/home_page.jpg" alt="HomePage" style="width:25%">
   </div>
   <div class="column">
     <img src="img_forest.jpg" alt="Forest" style="width:100%">
