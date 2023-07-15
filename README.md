@@ -38,9 +38,7 @@
   <div class="column">
     <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/reservation_page.jpg" alt="ReservationPage" style="width:25%">
   </div>
-  <div class="column">
-    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/bookmark_page.jpg" alt="BookmarkPage" style="width:25%">
-  </div>
+  
 </div>
 
 <h2>Team Members</h2>
