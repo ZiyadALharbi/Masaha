@@ -59,7 +59,7 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 	<li>Twitter: https://twitter.com/Ziyad_1440</li>
 </ul>
 
-
+<hr>
 <h3>Lujain Salah:</h3> 
 <p>recent graduate Bachelor Computer Science from Umm-Al Qura University with good interpersonal communication and technical skills in addition to a confident approach and professional attitude. Interested in web development and mobile apps, i participated in several hakathons and won one of them second place. I trained for 6 months in startups to increase my experience and I had a good computer experience in the training period.
 </p>
@@ -77,6 +77,7 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 	<li>GitHub: https://github.com/xilujain/xilujain</li>
 </ul>
 
+<hr>
 <h3>Omar Alshehri:</h3> 
 <p>Graduated from King Khalid University with a major in computer science. I am a Flutter app developer with a passion for learning new things and improving my skills. I had the pleasure of working with this wonderful team on our project, and I look forward to working with them again in the future.
 </p>
@@ -93,6 +94,7 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 	<li>GitHub: https://github.com/om7-sa</li>
 </ul>
 
+<hr>
 <h3>Alwaleed Khushaim:</h3> 
 <p>I am Alwaleed Khushaim, a graduate of TVTC, majoring in computer software. I'm specialized in front-end programming using Flutter. I worked on Masaha application. My role was as a front-end programmer. Now I seek to develop myself in the field of mobile application programming so that I develop myself in using native programing language such as swift and kotlin, and I seek to improve my self in the Back-End so that I become a Full stack mobile
 </p>
