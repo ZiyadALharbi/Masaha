@@ -35,7 +35,7 @@
 
 <h3>owner</h3>
 <div class="column">
-<img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Owner/owner.gif" alt="Owner" style="width:75%">
+<img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Owner/owner.gif" alt="Owner" style="width:85%">
 </div>
 
 
@@ -94,7 +94,7 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 </ul>
 
 <h3>Alwaleed Khushaim:</h3> 
-<p>I'm
+<p>I am Alwaleed Khushaim, a graduate of TVTC, majoring in computer software. I'm specialized in front-end programming using Flutter. I worked on Masaha application. My role was as a front-end programmer. Now I seek to develop myself in the field of mobile application programming so that I develop myself in using native programing language such as swift and kotlin, and I seek to improve my self in the Back-End so that I become a Full stack mobile
 </p>
 
 <h4>Role</h4>
