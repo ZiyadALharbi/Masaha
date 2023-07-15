@@ -31,13 +31,11 @@
 <h3>Customer</h3>
 
 <div class="row">
-    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/home_page.jpg" alt="HomePage" style="width:25%">
+    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/home_page.jpg" alt="HomePage" style="width:29%">
     <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/product_page.jpg" alt="ProductPage" style="width:25%">
     <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/reservation_page.jpg" alt="ReservationPage" style="width:25%">
     <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/bookmark_page.jpg" alt="BookmarkPage" style="width:25%">
 </div>
-
-
 
 <h3>owner</h3>
 <div class="column">
