@@ -23,7 +23,7 @@
 </ul>
 
 <h2>Presentaion</h2>
-<a href="https://www.canva.com/design/DAFmdj7q6T0/xqKluQ3Iq1SlDesHPHHAiQ/edit?utm_content=DAFmdj7q6T0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><p></p>Click here</p></a>
+<a href="https://www.canva.com/design/DAFmdj7q6T0/xqKluQ3Iq1SlDesHPHHAiQ/edit?utm_content=DAFmdj7q6T0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Click here</a>
 <br><p>if the videos are not working then u can check the presentation folder to see them. </p>
 
 <h2>Images</h2>
