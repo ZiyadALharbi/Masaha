@@ -28,6 +28,7 @@
 <br><p>if the videos are not working then u can check the presentation folder to see them. </p>
 
 <h2>Images</h2>
+<h3>Customer</h3>
 <div class="row">
   <div class="column">
     <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/home_page.jpg" alt="HomePage" style="width:25%">
@@ -38,8 +39,13 @@
   <div class="column">
     <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/reservation_page.jpg" alt="ReservationPage" style="width:25%">
   </div>
-  
+  <div class="column">
+    <img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Customer/bookmark_page.jpg" alt="BookmarkPage" style="width:25%">
+  </div>
 </div>
+
+<h3>owner</h3>
+<img src="https://github.com/ZiyadALharbi/Masaha/blob/main/Presentation/images/Owner/owner.gif" alt="Owner" style="width:25%">
 
 <h2>Team Members</h2>
 <h4>Ziyad Alharbi (Leader):</h4> 
