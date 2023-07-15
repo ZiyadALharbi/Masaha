@@ -111,4 +111,4 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 	<li>Twitter: https://twitter.com/wf_prog</li>
 </ul>
 
-<p><h3>Note:</h3>The roles assigned are the main roles only, but all members have participated in both back-end & front-end</p>
+<p><h3>Note:</h3>The roles assigned are the main roles only, but all members have participated in both back-end & front-end.</p>
