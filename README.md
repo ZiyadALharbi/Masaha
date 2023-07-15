@@ -111,4 +111,5 @@ I have feelings for AI and hope we fall in love in future. As the leader of this
 	<li>Email: <code></code></li>
 	<li>Linkedin: https://www.linkedin.com/in/alwaleed-khushaim-210726244</li>
 	<li>GitHub: https://github.com/ALWALEED-KHUSHAIM</li>
+	<li>Twitter: https://twitter.com/wf_prog</li>
 </ul>
